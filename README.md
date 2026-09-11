@@ -1,12 +1,11 @@
 <!--
   COMO USAR
-  1. No GitHub, crie um repositório PÚBLICO com o MESMO nome do seu usuário (ex.: github.com/rafaelgross/rafaelgross).
-  2. A foto usa seu avatar do GitHub. Para usar outra, suba um profile.png e troque o src da imagem.
-  3. Para adicionar LinkedIn e Lattes, inclua os links nas seções Academic e Let's Connect.
+  1. A foto é o arquivo profile.png deste repositório (sem fundo). Para trocar, substitua esse arquivo.
+  2. Para adicionar LinkedIn e Lattes, inclua os links nas seções Academic e Let's Connect.
   Estes comentários não aparecem no perfil.
 -->
 
-<img align="right" width="300" src="https://github.com/rafaelgross.png?size=460" alt="Rafael Gross" />
+<img align="right" width="300" src="./profile.png" alt="Rafael Gross" />
 
 ## Hi, I'm Rafael 👋
 
@@ -60,15 +59,6 @@ For more than five years I've been splitting my time between the classroom and p
   <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rafaelgross&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgross&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
